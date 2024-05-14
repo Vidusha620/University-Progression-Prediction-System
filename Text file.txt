@@ -1,0 +1,6 @@
+Part 3: 
+Progress - 120, 0, 0
+Trailer - 100, 0, 20
+Exclude - 40, 0, 80
+Retriever - 80, 20, 20
+Retriever - 60, 0, 60
