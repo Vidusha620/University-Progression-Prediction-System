@@ -39,8 +39,9 @@ while x!="q":
  x=str(input("Would you like to enter another set of data? Enter 'y' for yes or 'q' to quit and view results: "))
  if x=="q":
      break
-     
-#D
+ elif x=="y":
+     continue    
+
 #Histogram
 print("Histogram")
 print(f"Exclude {exclude_count} : ", end="")
